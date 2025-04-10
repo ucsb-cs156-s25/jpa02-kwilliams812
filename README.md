@@ -1,6 +1,6 @@
 # jpa02-kwilliams812
 
-Repo: https://ucsb-cs156-s25/jpa02-kwilliams812
+Repo: https://github.com/ucsb-cs156-s25/jpa02-kwilliams812
 
 Deployed at: https://jpa02-kwilliams812.dokku-03.cs.ucsb.edu
 
